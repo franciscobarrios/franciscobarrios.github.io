@@ -1,0 +1,41 @@
+
+- layout: left
+  company: If You Can 
+  link: www.ifyoucan.com
+  job_title: Android Developer
+  dates: March 2020 - Presente
+  description: | # this will include new lines to allow paragraphs
+    Android developer.
+
+- layout: left
+  company: Digital Endpoint
+  link: www.digitalendpoint.com
+  job_title: Android Developer
+  dates: December 2019 - March 2020
+  description: | # this will include new lines to allow paragraphs
+    Android developer.
+
+- layout: left
+  company: Appy Corp.
+  link: app.appy.town
+  job_title: Android Developer
+  dates: October 2018 - October 2019
+  description: | # this will include new lines to allow paragraphs
+    Android developer.
+
+- layout: left
+  company: Seidor Chile / Cencosud
+  link: www.seidor.cl/content/seidor-latam-cl/es.html
+  job_title: Sr. Consultant - Android Developer
+  dates: Mar 2017 - October 2018
+  description: | # this will include new lines to allow paragraphs
+    Android developer
+
+- layout: left
+  company: Zecovery Ltda
+  link: www.zecovery.com
+  job_title: PHP Developer / QA / Sys Admin
+  dates: Mar 2011 - Mar 2017
+  description: | # this will include new lines to allow paragraphs
+    Android developer
+  
